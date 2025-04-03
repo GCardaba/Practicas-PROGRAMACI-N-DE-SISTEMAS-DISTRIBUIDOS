@@ -1,4 +1,4 @@
-Rea# Práctica de Biblioteca como Sistema Distribuido con CORBA
+### Práctica de Biblioteca como Sistema Distribuido con CORBA
 
 Este proyecto implementa un sistema de biblioteca distribuida utilizando CORBA.
 
